@@ -14,7 +14,6 @@ app.get('/ui/style.css', function (req, res) {
 });
 
 
-});
 
 
 var port = 8080; // Use 8080 for local development because you might already have apache running on 80
