@@ -1,1 +1,4 @@
-console.log('Loaded!');
+var button=document.getElementById('click');
+button.onclick=function(){
+   vcyscy;
+};
