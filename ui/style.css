@@ -311,8 +311,8 @@ blockquote{border-color: #40403E;}
 }
 
 #thumbs a img 
-{ width: 350px; 
-  height: 350px; 
+{ width: 50px; 
+  height: 50px; 
   border: 0;
 }
 
@@ -320,7 +320,7 @@ blockquote{border-color: #40403E;}
 
 #thumbs a:hover img 
 { position: absolute; 
-  width: 550px; 
+  width: auto; 
   height: 6500px; 
   right: 196px; 
   top: 8px; 
