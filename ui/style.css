@@ -320,8 +320,8 @@ blockquote{border-color: #40403E;}
 
 #thumbs a:hover img 
 { position: absolute; 
-  width: auto; 
-  height: auto; 
+  width: 150px; 
+  height: 150px; 
   right: 196px; 
   top: 8px; 
   border: 2px solid #40403E;
