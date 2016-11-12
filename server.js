@@ -15,6 +15,9 @@ app.get('/ui/style.css', function (req, res) {
 app.get('/colour.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'colour.css'));
 });
+app.get('/image_viewer.css', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'image_viewer.css'));
+});
 
 
 
